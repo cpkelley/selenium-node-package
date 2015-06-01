@@ -1,0 +1,1 @@
+java  > selenium-log.log 2>&1 -jar active-drivers/selenium-server.jar -role node  -nodeConfig nodes-config.json -Dwebdriver.chrome.driver=active-drivers/chromedriver.exe 
